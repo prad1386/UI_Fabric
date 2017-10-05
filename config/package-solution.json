@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "helloworld-webpart-react-client-side-solution",
+    "id": "6e98031a-a1f9-4eec-b0e6-525d1ebac691",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/helloworld-webpart-react.sppkg"
+  }
+}
