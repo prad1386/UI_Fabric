@@ -11,7 +11,7 @@
       ]
     }
   },
-  "externals": {},
+  "externals": { },
   "localizedResources": {
     "HelloworldReactWebPartStrings": "lib/webparts/helloworldReact/loc/{locale}.js"
   }

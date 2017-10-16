@@ -13,14 +13,17 @@
   "dependencies": {
     "@microsoft/sp-core-library": "~1.2.0",
     "@microsoft/sp-webpart-base": "~1.2.0",
+    "@types/react": "15.0.38",
+    "@types/react-addons-shallow-compare": "0.14.17",
+    "@types/react-addons-test-utils": "0.14.15",
+    "@types/react-addons-update": "0.14.14",
+    "@types/react-dom": "0.14.18",
     "@types/webpack-env": ">=1.12.1 <1.14.0",
     "react": "15.4.2",
     "react-dom": "15.4.2",
-    "@types/react": "15.0.38",
-    "@types/react-dom": "0.14.18",
-    "@types/react-addons-shallow-compare": "0.14.17",
-    "@types/react-addons-update": "0.14.14",
-    "@types/react-addons-test-utils": "0.14.15"
+    "react-image-gallery": "^0.8.3",
+    "react-responsive-carousel": "^3.1.27",
+    "require": "^2.4.20"
   },
   "devDependencies": {
     "@microsoft/sp-build-web": "~1.2.0",
